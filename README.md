@@ -2,10 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on -- MERN Stack
-- 🌱 I’m currently learning -- Node.js
-- 👯 I’m looking to collaborate on -- React.js
-- 🤔 I’m looking for help with -- AWS
+- 🔭 I’m currently learning at -- Programing-hero
+- 🌱 I’m currently learning -- MERN stack
 - 💬 Ask me about -- anything
 - 📫 How to reach me ? -- social media
 - 😄 Pronouns -- he/him
