@@ -1,4 +1,4 @@
-# Hi 👋 This is [Shahadat Robin](https://robin-s-portfolio.web.app/)
+# Hi 👋 This is [Shahadat Robin](https://robin-s-portfolio.web.app/)  ![](https://komarev.com/ghpvc/?username=Sh-robin025&color=blue)
 
 Here are some ideas to get you started:
 
@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns -- he/him
 - ⚡ Fun fact -- i am half finish !
 
-![](https://komarev.com/ghpvc/?username=Sh-robin025&color=blue)
+
