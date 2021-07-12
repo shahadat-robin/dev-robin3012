@@ -5,7 +5,7 @@ I am full stack developer looking to solve real world problems. I have a passion
 ### What I am focusing on...👨‍💻
 Currently improving my React skills: NextJS, Gatsby JS and React Native. As well as also improving my UI/UX design skills.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=synthwave "Andres' Top Languages Card")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-robin025&theme=synthwave "Shahadat Robin' Top Languages Card")
 
 <a href="https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
