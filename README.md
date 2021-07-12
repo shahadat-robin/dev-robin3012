@@ -3,17 +3,18 @@
 I am full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out [@ShahadatRobin3](https://twitter.com/ShahadatRobin3) or give some ♥ on [Email](sh.robin025@gmail.com).
 
 ### Languages and Tools:
-<img align="left" alt="JavaScript" width="26px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="Microsoft Excel" width="26px" src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
+<img align="left" alt="React" width="50px" src="https://smartdev.com/wp-content/uploads/2021/05/react-native-app-development.png" />
+<img align="left" alt="Redux" width="50px" src="https://juststickers.in/wp-content/uploads/2018/08/redux.png" />
+<img align="left" alt="Bootstrap" width="50px" src="https://crowdcast-prod.imgix.net/-KHhIzuATU2K4OVPd2sP/event-cover-5388?w=800" />
+<img align="left" alt="Express" width="50px" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://img.icons8.com/color/452/mongodb.png" />
+<img align="left" alt="Node" width="50px" src="https://blog.rahulbhutani.com/wp-content/uploads/2020/10/nodejs-1.png" />
+<img align="left" alt="Firebase" width="50px" src="https://www.gstatic.com/devrel-devsite/prod/v5f61782021051fb502364887a46a1c5ce2cd6f3d29a3549e907afe67612e9bba/firebase/images/touchicon-180.png" />
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="50px" src="https://lh3.googleusercontent.com/proxy/hlqZayhFwLMxdr2831vm_JMTTMTZR3M6kyi0e42bBG0PbUpfX2zuT3QUn5Bq61ptRpdcuIk8jZzJNr4vdtxVVAICIYk9pnySomkWR7MpHyHNPLWy75q3Kw" />
 
+<br />
 <br />
 <br />
 
@@ -22,12 +23,14 @@ I am full stack developer looking to solve real world problems. I have a passion
 ### What I am focusing on...👨‍💻
 Currently improving my React skills: NextJS, Gatsby JS and React Native. As well as also improving my UI/UX design skills.
 
-<!-- ![Shahadat Robin' GitHub stats](https://github-readme-stats.vercel.app/api?username=Sh-robin025&theme=synthwave&show_icons=true&count_private=true "Shahadat Robin's GutHub Stats") -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-robin025&theme=synthwave "Shahadat Robin's Top Languages Card")
-<img align="left" width="500" alt="Shahadat Robin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sh-robin025&theme=synthwave&show_icons=true&hide_border=true" />
+![Shahadat Robin' GitHub stats](https://github-readme-stats.vercel.app/api?username=Sh-robin025&theme=synthwave&show_icons=true&count_private=true "Shahadat Robin's GutHub Stats")
+<!-- <img align="left" width="500" alt="Shahadat Robin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sh-robin025&theme=synthwave&show_icons=true&hide_border=true" /> -->
 
+### Find me elsewhere :
+
+<a href="https://www.facebook.com/Sh.Robin025/"> ![alt text](https://img.shields.io/badge/-facebook-white?style=plastic&logo=facebook)</a>
 <a href="https://www.linkedin.com/in/sh-robin025/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<a class="icon-twitter social-button color" href="https://www.linkedin.com/in/sh-robin025/">Twitter</a>
+<a href="https://www.linkedin.com/in/sh-robin025/"> ![alt text](https://img.shields.io/badge/-twitter-white?style=plastic&logo=twitter)</a>
 
 <!-- Here are some ideas to get you started:  Feel free to reach out in case you want to just get in touch also.
 
