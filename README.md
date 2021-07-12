@@ -5,7 +5,7 @@ I am full stack developer looking to solve real world problems. I have a passion
 ### What I am focusing on...👨‍💻
 Currently improving my React skills: NextJS, Gatsby JS and React Native. As well as also improving my UI/UX design skills.
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=Sh-robin025&theme=synthwave&show_icons=true&count_private=true&“Andres’ GutHub Stats”)
+![Sh-robin025’ GitHub stats](https://github-readme-stats.vercel.app/api?username=Sh-robin025&theme=synthwave&show_icons=true&count_private=true&“Sh-robin025’ GutHub Stats”)
 
 <!-- Here are some ideas to get you started:
 
