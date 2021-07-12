@@ -5,6 +5,8 @@ I am full stack developer looking to solve real world problems. I have a passion
 ### What I am focusing on...👨‍💻
 Currently improving my React skills: NextJS, Gatsby JS and React Native. As well as also improving my UI/UX design skills.
 
+[2]: http://www.facebook.com/sednaoui
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently learning at -- Programing-hero
