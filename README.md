@@ -1,6 +1,7 @@
 ## Hi 👋 This is [Shahadat Robin](https://robin-s-portfolio.web.app/)  ![](https://komarev.com/ghpvc/?username=Sh-robin025&color=blue)
 
 I am full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out [@ShahadatRobin3](https://twitter.com/ShahadatRobin3) or give some ♥ on [Email](sh.robin025@gmail.com).
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-robin025&theme=synthwave "Shahadat Robin's Top Languages Card")
 
 ### What I am focusing on...👨‍💻
