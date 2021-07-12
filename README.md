@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns -- he/him
 - ⚡ Fun fact -- i am half finish !
 
-![](https://komarev.com/ghpvc/?username=Sh-robin025)
+![](https://komarev.com/ghpvc/?username=Sh-robin025&color=dc143c)
