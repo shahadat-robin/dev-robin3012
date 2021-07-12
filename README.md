@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me ? -- social media
 - 😄 Pronouns -- he/him
 - ⚡ Fun fact -- i am half finish !
+
+![](https://komarev.com/ghpvc/?username=Sh-robin025)
