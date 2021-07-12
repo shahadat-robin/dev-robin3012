@@ -9,6 +9,8 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native. As well
 
 ![Shahadat Robin' GitHub stats](https://github-readme-stats.vercel.app/api?username=Sh-robin025&theme=synthwave&show_icons=true&count_private=true "Shahadat Robin's GutHub Stats")
 
+<img align="left" alt="Shahadat Robin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sh-robin025&show_icons=true&hide_border=true" />
+
 <a href="https://www.linkedin.com/in/sh-robin025/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a class="icon-twitter social-button color" href="https://www.linkedin.com/in/sh-robin025/">Twitter</a>
 
