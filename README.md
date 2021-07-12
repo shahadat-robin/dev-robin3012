@@ -14,9 +14,7 @@ I am full stack developer looking to solve real world problems. I have a passion
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="50px" src="https://lh3.googleusercontent.com/proxy/hlqZayhFwLMxdr2831vm_JMTTMTZR3M6kyi0e42bBG0PbUpfX2zuT3QUn5Bq61ptRpdcuIk8jZzJNr4vdtxVVAICIYk9pnySomkWR7MpHyHNPLWy75q3Kw" />
 
-<br />
-<br />
-<br />
+<br /><br /><br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-robin025&theme=synthwave "Shahadat Robin's Top Languages Card")
 
