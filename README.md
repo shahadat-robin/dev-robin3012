@@ -6,6 +6,7 @@ I am full stack developer looking to solve real world problems. I have a passion
 Currently improving my React skills: NextJS, Gatsby JS and React Native. As well as also improving my UI/UX design skills.
 
 [2]: http://www.facebook.com/sednaoui
+[1.2]: http://i.imgur.com/wWzX9uB.pn
 
 <!-- Here are some ideas to get you started:
 
