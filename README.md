@@ -27,7 +27,7 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="50px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
 <img align="left" alt="Sass" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
-<br>
+<br><br>
 
 ##
 <img align="left" width="45%" alt="Shahadat Robin's Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-robin025&theme=synthwave&layout=compact" />
