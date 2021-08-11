@@ -31,20 +31,10 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 
 ##
 <img align="left" width="45%" alt="Shahadat Robin's Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-robin025&theme=synthwave&layout=compact" />
-<a>
-  <img align="left" width="50%" alt="Shahadat Robin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sh-robin025&theme=synthwave&show_icons=true&count_private=true" />
-</a>
-#.
+<img align="left" width="50%" alt="Shahadat Robin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sh-robin025&theme=synthwave&show_icons=true&count_private=true" />
+<br><br>
 
-
-<!-- Here are some ideas to get you started:  Feel free to reach out in case you want to just get in touch also.
-
-- 🔭 I’m currently learning at -- Programing-hero
-- 🌱 I’m currently learning -- MERN stack
-- 💬 Ask me about -- anything
-- 📫 How to reach me ? -- social media
-- 😄 Pronouns -- he/him
-- ⚡ Fun fact -- i am half finish ! -->
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50">
 
 <h2 align="center">Find me elsewhere :</h2>
 <div align="center">
@@ -55,4 +45,13 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
   
 </div>
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50">
+
+
+<!-- Here are some ideas to get you started:  Feel free to reach out in case you want to just get in touch also.
+
+- 🔭 I’m currently learning at -- Programing-hero
+- 🌱 I’m currently learning -- MERN stack
+- 💬 Ask me about -- anything
+- 📫 How to reach me ? -- social media
+- 😄 Pronouns -- he/him
+- ⚡ Fun fact -- i am half finish ! -->
