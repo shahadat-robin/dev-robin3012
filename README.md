@@ -14,9 +14,9 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 <br><br>
 
 ### Framework and Library:
-<img align="left" alt="Sass" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
 <img align="left" alt="React" width="50px" src="https://smartdev.com/wp-content/uploads/2021/05/react-native-app-development.png" />
 <img align="left" alt="Redux" width="50px" src="https://juststickers.in/wp-content/uploads/2018/08/redux.png" />
+<img align="left" alt="Sass" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
 <img align="left" alt="React-Bootstrap" width="50px" src="https://crowdcast-prod.imgix.net/-KHhIzuATU2K4OVPd2sP/event-cover-5388?w=800" />
 <img align="left" alt="material-ui" width="50px" src="https://img.icons8.com/color/452/material-ui.png" />
 <img align="left" alt="Node" width="50px" src="https://blog.rahulbhutani.com/wp-content/uploads/2020/10/nodejs-1.png" />
