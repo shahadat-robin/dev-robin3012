@@ -28,6 +28,7 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 <img align="left" alt="Firebase" width="50px" src="https://www.gstatic.com/devrel-devsite/prod/v5f61782021051fb502364887a46a1c5ce2cd6f3d29a3549e907afe67612e9bba/firebase/images/touchicon-180.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="es-lint" width="50px" src="https://eslint.org/assets/img/favicon.512x512.png" />
+<img align="left" alt="preitter" width="50px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prettier-1324451365042256201.png" />
 <img align="left" alt="Git" width="50px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
 <br><br>
 
