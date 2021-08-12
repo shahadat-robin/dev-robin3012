@@ -10,9 +10,11 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 ### Language:
 <img align="left" alt="JavaScript" width="50px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
 <img align="left" alt="TypeScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+
 <br><br>
 
 ### Framework and Library:
+<img align="left" alt="Sass" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
 <img align="left" alt="React" width="50px" src="https://smartdev.com/wp-content/uploads/2021/05/react-native-app-development.png" />
 <img align="left" alt="Redux" width="50px" src="https://juststickers.in/wp-content/uploads/2018/08/redux.png" />
 <img align="left" alt="React-Bootstrap" width="50px" src="https://crowdcast-prod.imgix.net/-KHhIzuATU2K4OVPd2sP/event-cover-5388?w=800" />
@@ -25,8 +27,8 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 <img align="left" alt="MongoDB" width="50px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="Firebase" width="50px" src="https://www.gstatic.com/devrel-devsite/prod/v5f61782021051fb502364887a46a1c5ce2cd6f3d29a3549e907afe67612e9bba/firebase/images/touchicon-180.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="es-lint" width="50px" src="https://eslint.org/assets/img/favicon.512x512.png" />
 <img align="left" alt="Git" width="50px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
-<img align="left" alt="Sass" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
 <br><br>
 
 ##
