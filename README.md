@@ -18,6 +18,7 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 <img align="left" alt="Redux" width="50px" src="https://juststickers.in/wp-content/uploads/2018/08/redux.png" />
 <img align="left" alt="Sass" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
 <img align="left" alt="React-Bootstrap" width="50px" src="https://crowdcast-prod.imgix.net/-KHhIzuATU2K4OVPd2sP/event-cover-5388?w=800" />
+<img align="left" alt="material-ui" width="50px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+tailwind-1324451500323172563.png" />
 <img align="left" alt="material-ui" width="50px" src="https://img.icons8.com/color/452/material-ui.png" />
 <img align="left" alt="Node" width="50px" src="https://blog.rahulbhutani.com/wp-content/uploads/2020/10/nodejs-1.png" />
 <img align="left" alt="Express" width="50px" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" />
