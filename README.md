@@ -1,4 +1,4 @@
-## Hi 👋 This is [Shahadat Robin](https://robin-s-portfolio.web.app/)  ![](https://komarev.com/ghpvc/?username=Sh-robin025&color=blue)
+## Hi 👋 This is [Shahadat Robin](https://robin-s-portfolio.web.app/) ![Profile View Counter](https://komarev.com/ghpvc/?username=Sh-robin025&color=blue)
 
 I am full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out [@ShahadatRobin3](https://twitter.com/ShahadatRobin3) or give some ♥ on [Email](sh.robin025@gmail.com).
 ##
@@ -41,6 +41,7 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 <!-- <img align="left" width="50%" alt="Shahadat Robin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sh-robin025&theme=synthwave&show_icons=true&count_private=true" /> -->
 <br><br>
 
+<!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Sh-robin025/Sh-robin025) -->
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50">
 
