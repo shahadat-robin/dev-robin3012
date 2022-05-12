@@ -34,7 +34,7 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 <br><br>
 
 ##
-<img align="left" width="45%" alt="Shahadat Robin's Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-robin025&theme=synthwave&layout=compact" />
+<img align="left" width="40%" alt="Shahadat Robin's Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-robin025&theme=synthwave&layout=compact" />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dev-robin025&theme=synthwave&show_icons=true&count_private=true&show_icons=true)
 
