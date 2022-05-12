@@ -24,7 +24,7 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 <img align="left" alt="Express" width="50px" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" />
 <br><br>
 
-### Database and Tools:
+### Database and Tools: 
 <img align="left" alt="MongoDB" width="50px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="Firebase" width="50px" src="https://www.gstatic.com/devrel-devsite/prod/v5f61782021051fb502364887a46a1c5ce2cd6f3d29a3549e907afe67612e9bba/firebase/images/touchicon-180.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
