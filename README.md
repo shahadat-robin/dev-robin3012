@@ -9,15 +9,18 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 
 ### Language:
 <div>
+
   <img align="left" alt="HTML5" width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
   <img align="left" alt="JavaScript" width="50px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
   <img align="left" alt="TypeScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
   <img align="left" alt="GraphQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
+
 </div>
 <br><br>
 
 <h3>Framework and Library:<h3/>
 <div>
+
   <img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
   <img align="left" alt="Redux" width="50px" src="https://juststickers.in/wp-content/uploads/2018/08/redux.png" />
   <img align="left" alt="NextJS" width="50px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" />
@@ -31,11 +34,13 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
   <img align="left" alt="Node" width="50px" src="https://blog.rahulbhutani.com/wp-content/uploads/2020/10/nodejs-1.png" />
   <img align="left" alt="Express" width="50px" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" />
   <img align="left" alt="Apollo client" width="50px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
+
 </div>
 <br><br><br><br>
 
 <h3>Database and Tools:</h3>
 <div>
+
   <img align="left" alt="MongoDB" width="50px" src="https://img.icons8.com/color/452/mongodb.png" />
   <img align="left" alt="Firebase" width="50px" src="https://seeklogo.com/images/F/firebase-rtdb-logo-C976B2C606-seeklogo.com.png" />
   <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -46,6 +51,7 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
   <img align="left" alt="Lerna" width="50px" src="https://i.ibb.co/0MGyKqL/bn3lyuy1smf8wyue0oru-removebg-preview-1.png" />
   <img align="left" alt="npm&yarn" width="50px" src="https://miro.medium.com/max/400/1*b7DwaOEfreG253K8Z_QzkA.png" />
   <img align="left" alt="linux" width="50px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
+
 </div>
 <br><br>
 
@@ -64,8 +70,8 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 <h2 align="center">Find me elsewhere :</h2>
 <div align="center">
   
-  <a href="https://www.facebook.com/Sh.Robin025/"> ![alt text](https://img.shields.io/badge/-facebook-white?style=plastic&logo=facebook)</a>
-  <a href="https://www.linkedin.com/in/sh-robin025/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+  <a href="https://www.facebook.com/connection.robin/"> ![alt text](https://img.shields.io/badge/-facebook-white?style=plastic&logo=facebook)</a>
+  <a href="https://www.linkedin.com/in/connection-robin/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
   <a href="https://twitter.com/ShahadatRobin3"> ![alt text](https://img.shields.io/badge/-twitter-white?style=plastic&logo=twitter)</a>
   
 </div>
