@@ -8,40 +8,45 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 #
 
 ### Language:
-<img align="left" alt="HTML5" width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
-<img align="left" alt="TypeScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
-<img align="left" alt="GraphQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-
+<div>
+  <img align="left" alt="HTML5" width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+  <img align="left" alt="JavaScript" width="50px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
+  <img align="left" alt="TypeScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+  <img align="left" alt="GraphQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
+</div>
 <br><br>
 
-### Framework and Library:
-<img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-<img align="left" alt="Redux" width="50px" src="https://juststickers.in/wp-content/uploads/2018/08/redux.png" />
-<img align="left" alt="NextJS" width="50px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" />
-<img align="left" alt="Sass" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
-<img align="left" alt="React-Bootstrap" width="50px" src="https://crowdcast-prod.imgix.net/-KHhIzuATU2K4OVPd2sP/event-cover-5388?w=800" />
-<img align="left" alt="Antd" width="50px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
-<img align="left" alt="Tailwind" width="50px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+tailwind-1324451500323172563.png" />
-<img align="left" alt="Semantic-ui" width="50px" src="https://react.semantic-ui.com/logo.png" />
-<img align="left" alt="material-ui" width="50px" src="https://img.icons8.com/color/452/material-ui.png" />
-<img align="left" alt="Styled component" width="50px" src="https://styled-components.com/logo.png" />
-<img align="left" alt="Node" width="50px" src="https://blog.rahulbhutani.com/wp-content/uploads/2020/10/nodejs-1.png" />
-<img align="left" alt="Express" width="50px" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" />
-<img align="left" alt="Apollo client" width="50px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
+<h3>Framework and Library:<h3/>
+<div>
+  <img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+  <img align="left" alt="Redux" width="50px" src="https://juststickers.in/wp-content/uploads/2018/08/redux.png" />
+  <img align="left" alt="NextJS" width="50px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" />
+  <img align="left" alt="Sass" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
+  <img align="left" alt="React-Bootstrap" width="50px" src="https://crowdcast-prod.imgix.net/-KHhIzuATU2K4OVPd2sP/event-cover-5388?w=800" />
+  <img align="left" alt="Antd" width="50px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
+  <img align="left" alt="Tailwind" width="50px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+tailwind-1324451500323172563.png" />
+  <img align="left" alt="Semantic-ui" width="50px" src="https://react.semantic-ui.com/logo.png" />
+  <img align="left" alt="material-ui" width="50px" src="https://img.icons8.com/color/452/material-ui.png" />
+  <img align="left" alt="Styled component" width="50px" src="https://styled-components.com/logo.png" />
+  <img align="left" alt="Node" width="50px" src="https://blog.rahulbhutani.com/wp-content/uploads/2020/10/nodejs-1.png" />
+  <img align="left" alt="Express" width="50px" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" />
+  <img align="left" alt="Apollo client" width="50px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
+</div>
 <br><br>
 
-### Database and Tools: 
-<img align="left" alt="MongoDB" width="50px" src="https://img.icons8.com/color/452/mongodb.png" />
-<img align="left" alt="Firebase" width="50px" src="https://seeklogo.com/images/F/firebase-rtdb-logo-C976B2C606-seeklogo.com.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="es-lint" width="50px" src="https://images.credly.com/images/e6eebd0c-6a17-4c06-b172-02ca9f6beb06/eslint.png" />
-<img align="left" alt="postman" width="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
-<img align="left" alt="preitter" width="50px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prettier-1324451365042256201.png" />
-<img align="left" alt="Git" width="50px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
-<img align="left" alt="Lerna" width="50px" src="https://i.ibb.co/0MGyKqL/bn3lyuy1smf8wyue0oru-removebg-preview-1.png" />
-<img align="left" alt="npm&yarn" width="50px" src="https://miro.medium.com/max/400/1*b7DwaOEfreG253K8Z_QzkA.png" />
-<img align="left" alt="linux" width="50px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
+<h3>Database and Tools:</h3>
+<div>
+  <img align="left" alt="MongoDB" width="50px" src="https://img.icons8.com/color/452/mongodb.png" />
+  <img align="left" alt="Firebase" width="50px" src="https://seeklogo.com/images/F/firebase-rtdb-logo-C976B2C606-seeklogo.com.png" />
+  <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" alt="es-lint" width="50px" src="https://images.credly.com/images/e6eebd0c-6a17-4c06-b172-02ca9f6beb06/eslint.png" />
+  <img align="left" alt="postman" width="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
+  <img align="left" alt="preitter" width="50px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prettier-1324451365042256201.png" />
+  <img align="left" alt="Git" width="50px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
+  <img align="left" alt="Lerna" width="50px" src="https://i.ibb.co/0MGyKqL/bn3lyuy1smf8wyue0oru-removebg-preview-1.png" />
+  <img align="left" alt="npm&yarn" width="50px" src="https://miro.medium.com/max/400/1*b7DwaOEfreG253K8Z_QzkA.png" />
+  <img align="left" alt="linux" width="50px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
+</div>
 <br><br>
 
 ##
