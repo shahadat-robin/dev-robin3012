@@ -32,7 +32,7 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
   <img align="left" alt="Express" width="50px" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" />
   <img align="left" alt="Apollo client" width="50px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
 </div>
-<br><br><br>
+<br><br><br><br>
 
 <h3>Database and Tools:</h3>
 <div>
