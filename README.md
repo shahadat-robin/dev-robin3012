@@ -11,6 +11,7 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 <div>
 
   <img align="left" alt="HTML5" width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+  <img align="left" alt="HTML5" width="50px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
   <img align="left" alt="JavaScript" width="50px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
   <img align="left" alt="TypeScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
   <img align="left" alt="GraphQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
