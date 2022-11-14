@@ -11,8 +11,9 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
 <div>
 
   <img align="left" alt="HTML5" width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
-  <img align="left" alt="HTML5" width="50px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
-  <img align="left" alt="JavaScript" width="50px" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" />
+  <img align="left" alt="c" width="50px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
+  <img align="left" alt="c++" width="50px" src="https://i.ibb.co/KDStChd/1822px-ISO-C-Logo-svg.png" />
+  <img align="left" alt="JavaScript" width="50px" src="https://i.ibb.co/vJMYvtY/2048px-Unofficial-Java-Script-logo-2-svg.png" />
   <img align="left" alt="TypeScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
   <img align="left" alt="GraphQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
 
@@ -35,6 +36,7 @@ Currently improving my React skills: NextJS, TypeScript and React Native as well
   <img align="left" alt="Node" width="50px" src="https://blog.rahulbhutani.com/wp-content/uploads/2020/10/nodejs-1.png" />
   <img align="left" alt="Express" width="50px" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" />
   <img align="left" alt="Apollo client" width="50px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
+  <img align="left" alt="Apollo client" width="50px" src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2018/03/socket.png?fit=375%2C375&ssl=1" />
 
 </div>
 <br><br><br><br>
