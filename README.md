@@ -1,89 +1,113 @@
-## Hi 👋 This is [Shahadat Robin](https://robin-dev.vercel.app/) ![Profile View Counter](https://komarev.com/ghpvc/?username=Sh-robin025&color=blue)
-
-I am full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out [@ShahadatRobin3](https://twitter.com/ShahadatRobin3) or give some ♥ on [Email](mailto:connection.robin@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
-##
-
-### What I am focusing on...👨‍💻
-Currently improving my React skills: NextJS, TypeScript and React Native as well. Also improving my UI/UX design skills.
-#
-
-### Language:
-<div>
-
-  <img align="left" alt="HTML5" width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
-  <img align="left" alt="c" width="50px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" />
-  <img align="left" alt="c++" width="50px" src="https://i.ibb.co/KDStChd/1822px-ISO-C-Logo-svg.png" />
-  <img align="left" alt="JavaScript" width="50px" src="https://i.ibb.co/vJMYvtY/2048px-Unofficial-Java-Script-logo-2-svg.png" />
-  <img align="left" alt="TypeScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
-  <img align="left" alt="GraphQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-
+<div id="header" align="center">
+  <img style="width: 100%; height: auto;" src="https://i.ibb.co/WVBhFXk/Black-Minimal-Motivation-Quote-Linked-In-Banner.gif"/>
 </div>
-<br><br>
 
-<h3>Framework and Library:<h3/>
+<hr>
+
+
+<!-- <div align="center">
+  <a href="https://app.daily.dev/webdevmaruf"><img src="https://api.daily.dev/devcards/824de0776bf04cfa9519c993958acc54.png?r=80e" style="margin: 5px;" width="35%" alt="Maruf H.'s Dev Card"/></a>
+  <a href="https://leetcode.com/maruf42">
+  <img src="https://leetcard.jacoblin.cool/maruf42?theme=dark&font=Poppins&ext=activity" width="60%" style="margin: 5px;"/>
+  </a>
+</div> -->
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/MarufAlAslam)
+
+
+### 🐼 About Me :
+
+Currently, I'm working as Software Engineer at Lemon Hive. My core skill is MERN Stack (MongoDB, Express.JS, ReactJS, Nodejs). I have strong knowledge of front-end and familiar with backend. I am well organized, self-motivated and trying to be efficient day by day. I never stop me to learn new technologies. I’ve always been someone who has both a creative and a logical side.
+
+
+### 😎 Skillset :
+
+Comfortable: `C` `C++` `HTML` `CSS` `JavaScript` `ES6` `Bootstrap` `Tailwind` `React.js` `Express.js` `React Router DOM` `Daisy Ui` `Material Ui` `Styled Components` `Flowbyte` `jQuery` `CSS Media Query` `MongoDB` `Firebase` `Mongoose.js`
+
+Familiar with: `Redux` `Node.js` `React Native`
+
+Tools: `VS code` `Git, GitHub` `BitBucket` `CLI` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello Board`
+
+
+<hr>
+
+### 👨‍💼Experiences:
+
+| No | Job Title | Company Name | Start Date:| End Date | Location |
+| ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
+| 1  | Software Engineer  | Lemon Hive | January, 2023 | Currently Working | Dhaka, Bangladesh |
+| 2  | Front End Developer  | CoreXLab Ltd. | January, 2022 | December, 2022 | Dhaka, Bangladesh |
+| 3  | Associate Developer  | CoreXLab Ltd. | October, 2021 | December, 2021 | Dhaka, Bangladesh |
+| 4  | Freelance Web Developer  | UpWork | January, 2020 | Currently Working | Remote |
+
+* RWD = Responsive Web Design
+
+<hr>
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
-
-  <img align="left" alt="React" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-  <img align="left" alt="Redux" width="50px" src="https://juststickers.in/wp-content/uploads/2018/08/redux.png" />
-  <img align="left" alt="NextJS" width="50px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" />
-  <img align="left" alt="Sass" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" />
-  <img align="left" alt="React-Bootstrap" width="50px" src="https://crowdcast-prod.imgix.net/-KHhIzuATU2K4OVPd2sP/event-cover-5388?w=800" />
-  <img align="left" alt="Antd" width="50px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
-  <img align="left" alt="Tailwind" width="50px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+tailwind-1324451500323172563.png" />
-  <img align="left" alt="Semantic-ui" width="50px" src="https://react.semantic-ui.com/logo.png" />
-  <img align="left" alt="material-ui" width="50px" src="https://img.icons8.com/color/452/material-ui.png" />
-  <img align="left" alt="Styled component" width="50px" src="https://styled-components.com/logo.png" />
-  <img align="left" alt="Node" width="50px" src="https://blog.rahulbhutani.com/wp-content/uploads/2020/10/nodejs-1.png" />
-  <img align="left" alt="Express" width="50px" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" />
-  <img align="left" alt="Apollo client" width="50px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
-  <img align="left" alt="Apollo client" width="50px" src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2018/03/socket.png?fit=375%2C375&ssl=1" />
-
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" title="C" alt="C"/>&nbsp;
+   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"  title="Bootstrap" alt="Bootstrap"/>&nbsp;
+   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  title="Tailwind" alt="Tailwind CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" title="Redux" alt="Redux"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node" alt="Node" />&nbsp;
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express"/>&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" title="Mongodb" alt="Mongodb"/>&nbsp;
+  <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" title="Mui" alt="Mui"/>&nbsp;
+  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" title="Firebase" alt="Firebase"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
+  <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
+  
+  
 </div>
-<br><br><br><br>
+<hr>
+<a href="https://docs.google.com/document/d/1gH-szU1aWrpSC1xykt6wUk5JrTs7DPVxeOEWjKrntvU/edit?usp=sharing" style="text-decoration: none"  target="_blank" style="background:red;border:1px solid red;">
+<!--  <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:300px;max-width:80%;height:auto;" alt="dnld" border="0"> -->
+  Resume
+  </a>
 
-<h3>Database and Tools:</h3>
-<div>
+<hr>
 
-  <img align="left" alt="MongoDB" width="50px" src="https://img.icons8.com/color/452/mongodb.png" />
-  <img align="left" alt="Firebase" width="50px" src="https://seeklogo.com/images/F/firebase-rtdb-logo-C976B2C606-seeklogo.com.png" />
-  <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="left" alt="es-lint" width="50px" src="https://images.credly.com/images/e6eebd0c-6a17-4c06-b172-02ca9f6beb06/eslint.png" />
-  <img align="left" alt="postman" width="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
-  <img align="left" alt="preitter" width="50px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prettier-1324451365042256201.png" />
-  <img align="left" alt="Git" width="50px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
-  <img align="left" alt="Lerna" width="50px" src="https://i.ibb.co/0MGyKqL/bn3lyuy1smf8wyue0oru-removebg-preview-1.png" />
-  <img align="left" alt="npm&yarn" width="50px" src="https://miro.medium.com/max/400/1*b7DwaOEfreG253K8Z_QzkA.png" />
-  <img align="left" alt="linux" width="50px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
+### 🔥 My GitHub Stats :
 
-</div>
-<br><br>
-
-##
-<img align="left" width="40%" alt="Shahadat Robin's Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-robin025&theme=synthwave&layout=compact" />
-
-![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=dev-robin025&theme=synthwave&show_icons=true&count_private=true&show_icons=true)
-
-<!-- <img align="left" width="50%" alt="Shahadat Robin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sh-robin025&theme=synthwave&show_icons=true&count_private=true" /> -->
-<br><br>
-
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50">
-
-<h2 align="center">Find me elsewhere :</h2>
 <div align="center">
-  
-  <a href="https://www.facebook.com/connection.robin/"> ![alt text](https://img.shields.io/badge/-facebook-white?style=plastic&logo=facebook)</a>
-  <a href="https://www.linkedin.com/in/connection-robin/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-  <a href="https://twitter.com/ShahadatRobin3"> ![alt text](https://img.shields.io/badge/-twitter-white?style=plastic&logo=twitter)</a>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-robin3012&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="33%" height="100%" alt="Github STat"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=dev-robin3012&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="35%" height="100%" alt="Github STat"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-robin3012&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/>
 </div>
 
+<hr>
 
-
-<!-- Here are some ideas to get you started:  Feel free to reach out in case you want to just get in touch also.
-
-- 🔭 I’m currently learning at -- Programing-hero
-- 🌱 I’m currently learning -- MERN stack
-- 💬 Ask me about -- anything
-- 📫 How to reach me ? -- social media
-- 😄 Pronouns -- he/him
-- ⚡ Fun fact -- i am half finish ! -->
+<br>
+<div id="badges" align="center">
+<!--    <a href="https://www.fiverr.com/webdevmaruf" style="text-decoration: none" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
+   </a> -->
+  <a href="https://www.linkedin.com/in/connection-robin/" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a href="https://www.youtube.com/channel/UCDfNN-QPWQVfme71ORI26IA" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a> -->
+  <a href="https://twitter.com/Maruf23350252" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.facebook.com/marufalaslam/" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   </a>
+ 
+   <a href="https://www.instagram.com/captain_potatoo" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
+   </a>
+   <br>
+</div>
