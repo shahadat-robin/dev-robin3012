@@ -24,9 +24,9 @@ Currently, I'm working as Software Engineer at Lemon Hive. My core skill is MERN
 
 ### 😎 Skillset :
 
-Comfortable: `C` `C++` `HTML` `CSS` `JavaScript` `ES6` `Bootstrap` `Tailwind` `React.js` `Express.js` `React Router DOM` `Daisy Ui` `Material Ui` `Styled Components` `Flowbyte` `jQuery` `CSS Media Query` `MongoDB` `Firebase` `Mongoose.js`
+Comfortable: `HTML` `CSS` `JavaScript` `ES6` `Bootstrap` `Tailwind` `React.js` `Express.js` `Material Ui` `Styled Components` `CSS Media Query` `MongoDB` `Firebase` `Mongoose` `Redux` `Node.js`
 
-Familiar with: `Redux` `Node.js` `React Native`
+Familiar with: `React Native` `C` `C++` 
 
 Tools: `VS code` `Git, GitHub` `BitBucket` `CLI` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello Board`
 
