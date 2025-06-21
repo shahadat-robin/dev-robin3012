@@ -9,6 +9,9 @@ I thrive in Agile environments and value collaboration, continuous learning, and
 
 ### 📄 [Updated Resume](https://docs.google.com/document/d/1gH-szU1aWrpSC1xykt6wUk5JrTs7DPVxeOEWjKrntvU)
 
+📄 **[View Updated Resume →](https://docs.google.com/document/d/1gH-szU1aWrpSC1xykt6wUk5JrTs7DPVxeOEWjKrntvU)**
+
+
 <hr>
 
 ### 👨‍💼Experiences:
