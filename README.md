@@ -1,7 +1,13 @@
 
-### 🐼 About Me: [Resume](https://docs.google.com/document/d/1gH-szU1aWrpSC1xykt6wUk5JrTs7DPVxeOEWjKrntvU/edit?usp=sharing)
+### 🐼 About Me:
 
-Currently, I'm working as Software Engineer at Lemon Hive. My core skill is MERN Stack (MongoDB, Express.JS, ReactJS, Nodejs). I have strong knowledge of front-end and familiar with backend. I am well organized, self-motivated and trying to be efficient day by day. I never stop me to learn new technologies. I’ve always been someone who has both a creative and a logical side.
+A passionate Software Engineer, currently working at [Lemon Hive](https://www.lemonhive.com). With a strong foundation in the MERN Stack (MongoDB, Express.js, React.js, Node.js), I specialize in building modern, scalable, and user-centric web applications.
+
+I have hands-on experience across the full frontend spectrum, with a keen eye for detail and focus on user experiences, writing clean, maintainable code. I’ve always been someone who has both a creative and a logical side. I’m also comfortable working on the backend when needed, giving me the versatility to contribute across the stack.
+
+I thrive in Agile environments and value collaboration, continuous learning, and creative problem-solving. I'm always eager to explore new technologies and push my skills to the next level — blending both creative thinking and logical precision in everything I build.
+
+### 📄 [Updated Resume](https://docs.google.com/document/d/1gH-szU1aWrpSC1xykt6wUk5JrTs7DPVxeOEWjKrntvU)
 
 <hr>
 
