@@ -30,4 +30,8 @@ I thrive in Agile environments and value collaboration, continuous learning, and
   <a href="https://www.facebook.com/Shahadat.R0bin" style="text-decoration: none"  target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+
+  <a href="https://wa.me/+8801772493214" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-lightGreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
 </div>
