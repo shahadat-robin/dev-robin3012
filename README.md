@@ -7,10 +7,7 @@ I have hands-on experience across the full frontend spectrum, with a keen eye fo
 
 I thrive in Agile environments and value collaboration, continuous learning, and creative problem-solving. I'm always eager to explore new technologies and push my skills to the next level — blending both creative thinking and logical precision in everything I build.
 
-### 📄 [Updated Resume](https://docs.google.com/document/d/1gH-szU1aWrpSC1xykt6wUk5JrTs7DPVxeOEWjKrntvU)
-
-📄 **[View Updated Resume →](https://docs.google.com/document/d/1gH-szU1aWrpSC1xykt6wUk5JrTs7DPVxeOEWjKrntvU)**
-
+### 📄 [Updated Resume →](https://docs.google.com/document/d/1gH-szU1aWrpSC1xykt6wUk5JrTs7DPVxeOEWjKrntvU)
 
 <hr>
 
