@@ -1,4 +1,6 @@
 
+google-site-verification: google4380fb3806d44463.html
+
 ### 🐼 About Me:
 
 A passionate Software Engineer, currently working at [Lemon Hive](https://www.lemonhive.com). With a strong foundation in the MERN Stack (MongoDB, Express.js, React.js, Node.js). I specialize in building modern, scalable, and user-centric web applications.
