@@ -1,6 +1,6 @@
 ### 🐼 About Me:
 
-A passionate Software Engineer, currently working at [Lemon Hive](https://www.lemonhive.com). With a strong foundation in the MERN Stack (MongoDB, Express.js, React.js, Node.js). I specialize in building modern, scalable, and user-centric web applications.
+A passionate Software Engineer, currently working at [LemonHive](https://www.lemonhive.com). With a strong foundation in the MERN Stack (MongoDB, Express.js, React.js, Node.js). I specialize in building modern, scalable, and user-centric web applications.
 
 I have hands-on experience across the full frontend spectrum, with a keen eye for detail and focus on user experiences, writing clean, maintainable code. I’ve always been someone who has both a creative and a logical side. I’m also comfortable working on the backend when needed, giving me the versatility to contribute across the stack.
 
@@ -12,11 +12,11 @@ I thrive in Agile environments and value collaboration, continuous learning, and
 
 ### 👨‍💼Experiences:
 
-| No | Job Title | Company Name | Start Date:| End Date | Location |
+| No | Job Title | Employer | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  | Software Engineer  | Lemon Hive | January, 2023 | Currently Working | Dhaka, Bangladesh |
-| 2  | Front End Developer  | CoreXLab Ltd. | January, 2022 | December, 2022 | Dhaka, Bangladesh |
-| 3  | Associate Developer  | CoreXLab Ltd. | October, 2021 | December, 2021 | Dhaka, Bangladesh |
+| 1  | Software Engineer  | LemonHive | January, 2023 | Currently Working | Dhaka, Bangladesh |
+| 2  | Front End Developer  | Corexlab Ltd. | January, 2022 | December, 2022 | Dhaka, Bangladesh |
+| 3  | Associate Developer  | Corexlab Ltd. | October, 2021 | December, 2021 | Dhaka, Bangladesh |
 | 4  | Freelance Web Developer  | UpWork | January, 2020 | Currently Working | Remote |
 
 <hr>
